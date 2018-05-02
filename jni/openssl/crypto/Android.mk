@@ -30,6 +30,7 @@ local_src_files := \
 	o_fips.c \
 	mem_sec.c \
 	init.c \
+	pthread-atfork.c \
 	aes/aes_misc.c \
 	aes/aes_ecb.c \
 	aes/aes_cfb.c \
